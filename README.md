@@ -6,7 +6,7 @@ Currently, it is being operated from the University of the South Pacific, Fiji. 
  - Parallalization of SGD for big data
  - Bilevel optimization with evoluionary algorithms
  - Static & dynamic constraint optimization with meta-heuristic algorithms
- - Video summarization
+ - Video Abstraction
  
 You can reach us at: sharma_au(at)usp(dot)ac(dot)fj
 
