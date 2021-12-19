@@ -1,11 +1,12 @@
 - 👋 Welcome to Evolutionary COmputation and Learning Systems (ECOLS) Research Group
 
-Currently, it is being operated from the University of the South Pacific, Fiji. Our reserach interest mainly includes
+Currently, it is being operated from the University of the South Pacific, Fiji. Our research interest mainly includes
  - Guiding Neural Networks through gradient descent or curriculum learning
  - Oversampling with SMOTified-GAN - a new data augmentation method
  - Parallalization of SGD for big data
  - Bilevel optimization with evoluionary algorithms
- - Video summariazation
+ - Static & dynamic constraint optimization with meta-heuristic algorithms
+ - Video summarization
  
 You can reach us at: sharma_au(at)usp(dot)ac(dot)fj
 
