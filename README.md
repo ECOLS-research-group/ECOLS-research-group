@@ -8,7 +8,7 @@ Currently, it is being operated from the University of the South Pacific, Fiji. 
  - Static & dynamic constraint optimization with meta-heuristic algorithms
  - Video Abstraction
  
-You can reach us at: sharma_au(at)usp(dot)ac(dot)fj
+You can reach us at: anuraganand(dot)sharma(at)usp(dot)ac(dot)fj
 
 Admin [Anuraganand Sharma]
 https://github.com/anuraganands 
